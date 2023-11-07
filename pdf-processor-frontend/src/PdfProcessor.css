@@ -1,0 +1,32 @@
+.pdf-processor-container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .dropzone {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    margin: 20px 0;
+    cursor: pointer;
+  }
+  
+  .pdf-preview {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .process-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .process-button:hover {
+    background-color: #0056b3;
+  }
+  
